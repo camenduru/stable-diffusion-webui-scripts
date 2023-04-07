@@ -6,3 +6,6 @@ https://gist.github.com/camenduru/9ec5f8141db9902e375967e93250860f
 
 ## Multi Frame Render
 https://xanthius.itch.io/multi-frame-rendering-for-stablediffusion
+
+## Loopback Wave
+https://rentry.org/sd-loopback-wave
