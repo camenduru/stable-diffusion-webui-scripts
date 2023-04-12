@@ -9,3 +9,6 @@ https://xanthius.itch.io/multi-frame-rendering-for-stablediffusion
 
 ## Loopback Wave
 https://rentry.org/sd-loopback-wave
+
+## ControlNet image sequence 2 image sequence script v2
+https://toyxyz.gumroad.com/l/jydvk
